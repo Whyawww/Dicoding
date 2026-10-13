@@ -10,7 +10,7 @@ Prerequisites: PHP 8.x, Composer, and MySQL.
 
 1. Navigate to the backend directory:
    ```bash
-   cd backend
+   cd job-api
    ```
 2. Install PHP dependencies:
    ```bash
@@ -39,7 +39,7 @@ Prerequisites: Node.js (v18.x or newer) and npm.
 
 1. Navigate to the frontend directory:
    ```bash
-   cd frontend
+   cd job-ui
    ```
 2. Install JavaScript dependencies:
    ```bash
